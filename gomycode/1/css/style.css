@@ -1,0 +1,30 @@
+h1{
+    color:rgb(59, 6, 6);
+    border-style: solid;
+    
+}
+body{
+background-color: brown;
+background-image: url(C:\Users\asus\Desktop\gomycode\1\res\pic1.jpg)
+
+}
+.one{
+    color: azure;
+    font-size:40px;
+    margin-right: 130px;
+    display: inline;
+
+}
+
+
+.two{
+
+    border-style: solid;
+    border-color: azure;
+    margin-left: 40%;
+    margin-right:40%;
+    font-size: 30px;
+    background-color: grey;
+}
+
+
